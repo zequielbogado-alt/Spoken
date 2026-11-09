@@ -4,6 +4,7 @@
 [![Interface](https://img.shields.io/badge/Interface-30300-orange.svg)](https://tuwow.com)
 [![Platform](https://img.shields.io/badge/Server-TuWoW%20Server-red.svg)](https://tuwow.com)
 [![Language](https://img.shields.io/badge/Audio-Espa%C3%B1ol%20(esES%20%2F%20esMX)-brightgreen.svg)](https://tuwow.com)
+[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 **Spoken: TuWoW Edition** es una suite de inmersión y narración sonora en vivo para World of Warcraft 3.3.5a (Wrath of the Lich King). Dota de voz hablada en español a los personajes no jugadores (PNJ), misiones, historias de zonas descubiertas, libros, cartas y jefes derrotados, transformando por completo la experiencia de juego con un estándar audiovisual moderno.
 
@@ -112,5 +113,8 @@ Spoken/
 ---
 
 ## 📜 Licencia y Créditos
-* **Spoken Original**: Desarrollado por el equipo de Spoken / VoiceOver.
-* **Duende Loca for TuWoW Adaptation & WotLK 3.3.5a Backport**: Optimizado y adaptado por TuWoW.
+
+Este proyecto se distribuye bajo los términos de la licencia **MIT** (consulta el archivo [LICENSE](LICENSE) para más detalles).
+
+* **Spoken Original**: Desarrollado por el equipo de Spoken / VoiceOver ([rusty-key/spoken-wow](https://github.com/rusty-key/spoken-wow)).
+* **Adaptación WotLK 3.3.5a y Generación de Voces**: Agradecimiento y reconocimiento especial a Zequiel Bogado ([zequielbogado-alt/Spoken](https://github.com/zequielbogado-alt/Spoken)) y a la comunidad de TuWoW por el port a 3.3.5a, la optimización FMOD y la laboriosa generación del catálogo sonoro en español.
